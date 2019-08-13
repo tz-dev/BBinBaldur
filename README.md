@@ -1,4 +1,4 @@
 # BBinBaldur
 Beavis and Butthead in Baldur
 
-Contains portraits and sound for 6 characters in Baldurs Gate 1.
+Contains portraits and sounds of 6 "Beavis and Butthead" characters for Baldurs Gate 1.
