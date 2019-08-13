@@ -1,0 +1,51 @@
+================
+= INSTRUCTIONS =
+================
+
+
+Portraits
+=========
+
+Folder: "SteamApps\Common\Baldur's Gate Enhanced Edition\Portraits"
+
+Small Portrait     38 x 60     8 bit
+Medium Portrait   110 x 170   16 bit 
+Large Portrait    210 x 330   16 bit
+
+
+Sounds
+======
+
+Folder: "SteamApps\Common\Baldur's Gate Enhanced Edition\lang\en_US\sounds"
+
+
+How To
+------
+
+- Replace each 'X' in the filenames with a number
+- You have 10 Sound Slots
+- All the wav files should be 22 khz, 16 bit mono sounds
+
+CUSTOMXa.wav - Battle Cry
+CUSTOMXb.wav - Becoming Leader
+CUSTOMXc.wav - Tired
+CUSTOMXd.wav - Bored
+CUSTOMXe.wav - Badly Wounded
+CUSTOMXf.wav - Selected 1
+CUSTOMXg.wav - Selected 2
+CUSTOMXh.wav - Selected 3
+CUSTOMXi.wav - Action Acknowledgement 1
+CUSTOMXj.wav - Action Acknowledgement 2
+CUSTOMXk.wav - Action Acknowledgement 3
+CUSTOMXl.wav - Being Hit
+CUSTOMXm.wav - Dying
+CUSTOMXn.wav - In Forest
+CUSTOMXo.wav - In City
+CUSTOMXp.wav - In Dungeon
+CUSTOMXq.wav - Daytime
+CUSTOMXr.wav - Nighttime
+CUSTOMXs.wav - Rare Selected 1
+CUSTOMXt.wav - Rare Selected 2
+CUSTOMXu.wav - Rare Selected 3
+CUSTOMXv.wav - Rare Selected 4
+CUSTOMXw.wav - Reaction to Party Member Death
